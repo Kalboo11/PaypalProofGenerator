@@ -4,7 +4,7 @@
 You can Open the link the generate <a href='#'>HERE</a>
 
 ## What is this?
-It generates proof of paypal payment (example: You've sent 90.00 USD to destrotn@fake.com)
+It generates proof of paypal payment (example: You've sent 90.00 USD to )
 * <img src="https://github.com/DesTroTN/PaypalProofGenerator/blob/main/sc/1.PNG" border="0"></a>
 <br> 
 
@@ -17,10 +17,4 @@ It generates proof of paypal payment (example: You've sent 90.00 USD to destrotn
 
 You're done! All simple, easy
 
-## Credits :
-```
-This Script is free to distribute, modify and use with the condition that credit is provided to the creator (@DesTroTN) and is not for commercial use.
-Github : DesTroTN
-Zone-h : DesTroTN
-Facebook : DesTroTN
-```
+
